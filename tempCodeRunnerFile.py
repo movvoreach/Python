@@ -1,0 +1,1 @@
+ill=tk.BOTH
